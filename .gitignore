@@ -1,0 +1,7 @@
+node_modules/
+demo_assets/
+*.n3pmesh
+*.dxt
+*.png
+*.jpg
+.DS_Store
